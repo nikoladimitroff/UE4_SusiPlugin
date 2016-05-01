@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{057B6751-43BC-4BA7-0068-58824477289A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SusiShooter",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

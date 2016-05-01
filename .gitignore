@@ -1,3 +1,14 @@
+# Ignore the local password file
+LocalPasswordFile.txt
+
+# Ignore temp dir
+Intermediate/
+Binaries/
+Build/
+Saved/
+DerivedDataCache/
+.vs/
+
 # Compiled Object files
 *.slo
 *.lo
