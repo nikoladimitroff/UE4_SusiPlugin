@@ -52,3 +52,8 @@ exported. Settings can be changed via config files or from *Edit* -> *Project Se
 The module's public API implementation. Implements the logging category and also
 registers the plugin's settings to the editor. See `RegisterSettings` in *Susi.cpp*.
 
+### `SusiActor`
+
+SusiActor is a blueprint-implemented actor that uses the `USusiComponent`
+and displays the data over the actor's static mesh. See */Plugins/Susi/Content/SusiActor.uasset*
+for details
