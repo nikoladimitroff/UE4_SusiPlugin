@@ -21,7 +21,7 @@ namespace
 #if WITH_EDITOR
 	void RegisterSettings()
 	{
-#define LOCTEXT_NAMESPACE "CoherentUIGTEditorSettings"
+#define LOCTEXT_NAMESPACE "SusiSettings"
 		if (ISettingsModule* SettingsModule = FModuleManager::GetModulePtr<ISettingsModule>("Settings"))
 		{
 			auto defaultValues = GetMutableDefault<USusiSettings>();
