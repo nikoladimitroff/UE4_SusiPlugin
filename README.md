@@ -1,6 +1,10 @@
 # UE4_SusiPlugin
 
-Integrates Sofia University's Susi system into UE4.
+This is the sample project for the Game Engine Architecture with UE4 course
+taught @ Faculty of Math and Informatics at the University of Sofia. The lectures can be found here -
+https://github.com/nikoladimitroff/Game-Engine-Architecture
+
+It integrates Sofia University's Susi system into UE4.
 
 The repo is structured as a standard UE4 project, the plugin itself is in */Plugins/Susi/*.
 
